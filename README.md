@@ -39,7 +39,8 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 **z** depth in mm (0--31.8)
 
 
-![Diamond](https://images.app.goo.gl/7aHE33iciEMd7RPR9)
+![Screenshot 2023-03-02 003943](https://user-images.githubusercontent.com/126685886/222240510-d2c3158b-f58a-40d9-9c1a-b087745d8218.png)
+
 
 
 
