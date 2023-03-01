@@ -1,7 +1,7 @@
 # ML-Based-Multipal-Price-Prediction-System
 It's my first ML project which is combination of different price prediction models using machine learning.
 
-In below video you can check the workflow of this project and how it's look.
+In below video you can check the workflow and overview of this project.:point_down:
 
 https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45-87e5-d11ffa556bb5.mp4
 
