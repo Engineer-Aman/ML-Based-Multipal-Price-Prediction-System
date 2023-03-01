@@ -1,7 +1,7 @@
 # ML-Based-Multipal-Price-Prediction-System
 :wave: Hi All :smile: it's my first ML project which is combination of different price prediction models using machine learning.
 
-I deployed my moodel using streamlit.[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+I deployed my model using streamlit.[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 
 In below video you can check the workflow and overview of this project.:point_down:
 
