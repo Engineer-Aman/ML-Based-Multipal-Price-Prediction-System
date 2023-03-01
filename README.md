@@ -30,8 +30,16 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 
 **clarity (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))** Diamonds can have internal characteristics known as inclusions or external characteristics known as blemishes. Diamonds without inclusions or blemishes are rare; however, most characteristics can only be seen with magnification.  
 
+**Dimensions**
+
+**x** length in mm (0--10.74)
+
+**y** width in mm (0--58.9)
+
+**z** depth in mm (0--31.8)
 
 
+https://images.app.goo.gl/7aHE33iciEMd7RPR9
 
 
 
