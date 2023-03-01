@@ -42,5 +42,9 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 ![Screenshot 2023-03-02 003943](https://user-images.githubusercontent.com/126685886/222240510-d2c3158b-f58a-40d9-9c1a-b087745d8218.png)
 
 
+**depth** total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79) The depth of the diamond is its height (in millimetres) measured from the culet (bottom tip) to the table (flat, top surface).
 
+**table** width of the top of the diamond relative to widest point (43--95)
+
+A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye. The ideal table cut diamond will give the diamond stunning fire and brilliance.
 
