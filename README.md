@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 **z** depth in mm (0--31.8)
 
 
-https://images.app.goo.gl/7aHE33iciEMd7RPR9
+![Diamond](https://images.app.goo.gl/7aHE33iciEMd7RPR9)
 
 
 
