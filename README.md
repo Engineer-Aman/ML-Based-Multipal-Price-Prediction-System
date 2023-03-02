@@ -81,4 +81,4 @@ This project aims to predict the house price in US to help coustomer or people w
 
 **size:** represent size of house or plot in Sqft.
 
-***zip_code:	** Zip represent area in US where house is present. 
+**zip_code:** Zip represent area in US where house is present. 
