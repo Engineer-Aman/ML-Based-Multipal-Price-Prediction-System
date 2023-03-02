@@ -51,3 +51,19 @@ A diamond's table refers to the flat facet of the diamond seen when the stone is
 >### 2.Domastic Flight Price Prediction.
 
 This project aims to predict ticket prices for upcoming flights to help customers in selecting the optimum time for travel and the cheapest flight to the desired destination. A linear regression model is applied to forecast the flight prices based on data.
+
+**Feature description:**
+
+**Airline:** So this column will have all the types of airlines like Indigo, Jet Airways, Air India, and many more.
+
+**Arrival_Time:** Arrival time is when the passenger will reach his/her destination.
+
+**departure_time:** the time at which a public conveyance is scheduled to depart from a given point of origin.
+
+**stops:** How mnay stopes flight will took in route.
+
+**class:** Class detrmine (Economic, Business)comfort of setting arrengent price will incearse and decrase on it.
+
+**duration:** it define duration or time taken by journy.
+
+**days_left:** it defines days left to departure of flight from location.
