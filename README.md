@@ -49,3 +49,5 @@ I have considered the classic Diamonds dataset which contains the prices and oth
 A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye. The ideal table cut diamond will give the diamond stunning fire and brilliance.
 
 >### 2.Domastic Flight Price Prediction.
+
+This project aims to predict ticket prices for upcoming flights to help customers in selecting the optimum time for travel and the cheapest flight to the desired destination. A linear regression model is applied to forecast the flight prices based on data.
