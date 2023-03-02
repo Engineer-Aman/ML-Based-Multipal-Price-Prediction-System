@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 ### 3.US House Price prediction.
 
 >### 1.Dimaond Price Prediction.
->I have considered the classic Diamonds dataset which contains the prices and other attributes of almost 54,000 diamonds and this dataset is hosted on Kaggle. The dataset contains 53940 rows and 10 variables.In it **Price** is our target feature, I used a Linear regression algorithm in machine learning to build the model and in it to check model accuarcy I used R2_Score metric where **R2_Score** is **0.8919176931335825** on Y_test and Y_Pred(Prediction), let’s have a look into the variables & their definitions.
+I have considered the classic Diamonds dataset which contains the prices and other attributes of almost 54,000 diamonds and this dataset is hosted on Kaggle. The dataset contains 53940 rows and 10 variables.In it **Price** is our target feature, I used a Linear regression algorithm in machine learning to build the model and in it to check model accuarcy I used R2_Score metric where **R2_Score** is **0.8919176931335825** on Y_test and Y_Pred(Prediction), let’s have a look into the variables & their definitions.
 
 **Feature description:**
 
@@ -48,3 +48,4 @@ https://user-images.githubusercontent.com/126685886/222221465-6658c7ba-60d9-4a45
 
 A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye. The ideal table cut diamond will give the diamond stunning fire and brilliance.
 
+>### 2.Domastic Flight Price Prediction.
