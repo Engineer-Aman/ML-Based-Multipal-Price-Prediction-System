@@ -73,7 +73,7 @@ This project aims to predict ticket prices for upcoming flights to help customer
 **days_left:** it defines days left to departure of flight from location.
 
 
->###3.US House Price prediction.
+>### 3.US House Price prediction.
 
 This project aims to predict the house price in US to help coustomer or people who willing to purches or sell a house. Based on some of the features as per requirement of user like ZIP code and Size of house etc. ZIP code specifies the area or location of house in US. I used Linear regression to build this model and took date from kaggle. 
 
